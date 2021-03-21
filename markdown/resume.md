@@ -23,20 +23,19 @@ Working Experiences
 
 **Technical Lead, IG Group, London, Jun 2015 - Mar 2019:**
 
-*Spectrum Markets* (https://www.spectrum-markets.com). Next-generation institutional Exchange system as a Greenfield project. Combined Event-Sourcing, CQRS, SOLID Principles, Functional Programming, Full TDD / BDD at all levels in Testing Pyramid. Used Hexagonal Architecture as application methodology. Used Docker as the local dev tool and built a CI/CD pipeline for future. Used Confinity (formerly IBM) Low-latency Messaging, Reuters RFA, Elektron, QuickfixJ, Spring Boot, Core Java 8 and other Java utilities (Lombok, Vavr, Guava, Immutables, Cucumber, JMH Benchmarking) as the technology stack. The sole author of the FIX Rules of Engagement for the Exchange.
+*Spectrum Markets* (https://www.spectrum-markets.com). A new institutional Exchange system as a Greenfield project. Combined Event-Sourcing, CQRS, SOLID Principles, Functional Programming, Full TDD / BDD at all levels in Testing Pyramid. Used Hexagonal Architecture as application methodology. Used Docker as the local dev tool and built a CI/CD pipeline for future. Used Confinity (formerly IBM) Low-latency Messaging, Reuters RFA, Elektron, QuickfixJ, Spring Boot, Core Java 8 and other Java utilities (Lombok, Vavr, Guava, Immutables, Cucumber, JMH Benchmarking) as the technology stack. The sole author of the FIX Rules of Engagement for the Exchange. Matching latency was down to 9 milliseconds for 5-level depth book.
 
-*NADEX* (https://www.nadex.com/). As the trade volume doubled every two years, the Exchange system finally saturated and scalability improvement was required. During the project, the business flow was streamlined. Terracotta FX was replaced by local cache. Redhat MRG QPID was replaced by IBM LLM. Reuters RFA was used to distribute Market data. Quote throughput was boosted from 3000 to 6000 per second, and order latency was down to sub-milliseconds.
+*NADEX* (https://www.nadex.com/). As the trade volume doubled every two years, the Exchange system finally saturated and scalability improvement was required. Terracotta FX was replaced by local cache. Redhat MRG QPID was replaced by IBM LLM. Reuters RFA was used to distribute Market data. Quote throughput was boosted from 3000 to 6000 per second, and order latency was down to sub-milliseconds.
 
-*IGFX FX Price Aggregator*. The FX Spot price aggregator and order router required a separation of price streams between client orders and hedging function. Contacted 14 liquidity providers (e.g. BAML, Barclays, Morgan Stanley, HSBC) in setting up and onboarding of the new price FIX feeds and new trade FIX feeds. Performed conformity testing and conducted live test trades with the dealers.
+*IGFX FX Price Aggregator*. The FX Spot price aggregator and order router required a separation of price streams between client orders and hedging function. Connected with 14 liquidity providers (e.g. BAML, Barclays, Morgan Stanley, HSBC) in setting up and onboarding of the new price FIX feeds and new trade FIX feeds. Performed conformity testing and conducted live test trades with the dealers.
 
 **AVP, Bank of America Merrill Lynch, London, Oct 2013 - Jun 2015**
 
-Front office support and development for Interests Rate Swaps trading application. Enhanced EURIBOR and LIBOR Interests Rate Swaps real-time trading GUI between the bank and other systems such as iSwap, Bloomberg, Tradeweb, etc. Worked as a part of the global team including New York, Singapore and India. Introduced the feature in the GUI to support Sterling swaps with multilegs. Added the support for IMM and MAC swaps. Fixed urgent bugs and investigated queries from traders. Worked with traders on urgent issues and GUI upgrade.
-The GUI was written in Java/Swing/JIDE and it was migrating to WPF and .NET framework.
+Front office support and development for Interests Rate Swaps trading application. Enhanced EURIBOR and LIBOR Interests Rate Swaps real-time trading GUI between the bank and other systems such as iSwap, Bloomberg, Tradeweb, etc. Worked as a part of the global team including New York, Singapore and India. Introduced the feature in the GUI to support Sterling swaps with multilegs. Added the support for IMM and MAC swaps. Fixed urgent bugs and investigated queries from traders. Worked with traders on urgent issues and GUI upgrade. The GUI was written in Java/Swing/JIDE.
 
 **Technical Lead, IG Index, London, April 2008 - Oct 2013**
 
-*NADEX* (https://www.nadex.com). Re-written the HedgeStreet system with Terracotta and QPID. Scrum and Test-Driven Development were used . Utilised data grid technology to achieve data partitioning and high availability. The system went live in October 2010. Designed the FIX application protocol and maintained the NADEX FIX Spec. Built the framework for messaging for JMS and FIX. Profiled java code and debugged memory leaks. Designed data-driven test framework for order matching using XStream. Designed concurrent and multi-threaded distributed caching mechanism. Revamped the ledgering component in Clearing House. Built the frameworks and utilities for Swing GUI using JIDE.
+*NADEX* (https://www.nadex.com). Re-written the HedgeStreet system with Terracotta and QPID. Scrum and Test-Driven Development were used . Utilised data grid technology to achieve data partitioning and high availability. The system went live in October 2010. Designed the FIX application protocol and maintained the NADEX FIX Spec. Built the framework for messaging for JMS and FIX. Profiled java code and debugged memory leaks. Designed data-driven test framework for order matching. Designed concurrent and multi-threaded distributed caching mechanism. Revamped the ledgering component in Clearing House. Built the frameworks and utilities for Swing GUI using JIDE.
 
 *HedgeStreet*. The first internet-based futures exchange regulated by CFTC in Chicago. This n-tier J2EE system comprises a Designated Contract Market (Exchange), a Derivatives Clearing Organisation (Clearing House), FIX connectivity for Order Entry and Market Data, and a JSP / Servlet website. Analysed and re-architected to boost trading throughput from 20 orders per second to 1000.
 
@@ -50,11 +49,11 @@ The GUI was written in Java/Swing/JIDE and it was migrating to WPF and .NET fram
 
 **Systems Analyst / Team Lead, Peopleware Systems Limited, Hong Kong, May 2004 - Jul 2005**
 
-*Clearing House System of the Trans Link Systems*. The national public transport backoffice system in The Netherlands. This n-tier J2EE system used Weblogic and Oracle. Led the team of 2 developers. Enhanced the multi-threaded framework to complete clearing and settlement for 16m transactions within 2 hours.
+*Clearing House System of the Trans Link Systems*. The national public transport backoffice system in The Netherlands. This n-tier J2EE system used Weblogic and Oracle. Led the team of 2 developers. Enhanced the multi-threaded framework to complete clearing and settlement for 16 million transactions within 2 hours.
 
 **Software Engineer / Team Lead, Agile Software, Hong Kong, Oct 2002 - May 2004**
 
-*Product Lifecycle Management system* (https://www.oracle.com/uk/scm/product-lifecycle-management/). A n-tier J2EE content management system based on Weblogic and Oracle. Led a team of 3 developers. Enhanced the proprietary distributed object cache and workflow engine. Reduced application response time by 30%.
+*Product Lifecycle Management system* (https://www.oracle.com/uk/scm/product-lifecycle-management/). A n-tier J2EE content management system based on Weblogic and Oracle. Led a team of 3 developers. Enhanced the proprietary distributed object cache and reduced application response time by 30%.
 
 **Software Specialist, Intelligence Plus Limited, Hong Kong, Jul 2001 - Oct 2002**
 *Learning Plus*. A Core Java e-learning system using mySQL, JDBC, Swing, Java2D, multi-threading, and UML.
@@ -66,16 +65,15 @@ Technical Experience
 
 *Languages*: Kotlin, Core Java (11+), Bash, SQL, PL/SQL
 
-*Frameworks*: Spring Boot, Spring Frameworks, Exposed, Jooq, Kotest, Mockk, Arrow, Disruptor, Fly-
-way, Resilience4J, Mockito, AssertionJ, Jupiter, Protobuf
+*Frameworks*: Spring Boot, Spring Frameworks, Exposed, Jooq, Kotest, Mockk, Arrow, Disruptor, Flyway, Resilience4J, Mockito, AssertionJ, Jupiter, Protobuf
 
 *Messaging*: Confinity (formerly IBM) Low-latency Messaging, Reuters Foundation API (RFA), Quickfix, Amazon Kinesis
 
-*Databases*: Oracle, mySQL, Postgres, InfluxDB
+*Databases*: Oracle, mySQL, Postgres, InfluxDB, Metabase
 
-*Methodology*: A/B Testing, Functional Programming, SOLID Principles, Event Sourcing, Command Query Responsibility Segregation (CQRS), Ports and Adapters (Hexagonal Architecture), Test-driven Development (TDD), Behaviour-driven Development (BDD), Scrum (as Scrum Master), Continuous Delivery
+*Methodology*: A/B Testing, Functional Programming, SOLID Principles, Event Sourcing, Command Query Responsibility Segregation (CQRS), Ports and Adapters (Hexagonal Architecture), Test-driven Development (TDD), Behaviour-driven Development (BDD), Scrum, Kanban, Continuous Delivery
 
-*Tools*: Docker, Github, Subversion, Perforce, Jira, BitBucket, Confluence, Bamboo, Jenkins
+*Tools*: Docker, Github, Jira, BitBucket, Confluence, Bamboo, Jenkins, DataDog, Kibana
 
 *Operating Systems*: Linux, Windows, Mac OSX
 
