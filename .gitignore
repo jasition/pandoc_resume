@@ -2,3 +2,6 @@
 *.swo
 *.swp
 output/
+.DS_Store
+.idea
+*.iml
