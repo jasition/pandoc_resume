@@ -9,43 +9,61 @@ Tsz Shun Chow (Jason)
 ----
 
 Speciality
----------
+----------------------------------------
 
 Low-latency trading systems | Core banking systems and integration | Product-oriented engineering | A/B testing experiment
 design | Public API designer and writer | Event-driven systems | Multi-threaded real-time systems | CQRS | event sourcing |
 domain-driven development
 
 Technical Experiences
---------------------
+----------------------------------------
 
-* Source Talk community speaker: *"Transitioning to
-  Kotlin"* (https://www.source-technology.com/source-talks-transitioning-to-kotlin/)
+Webinar
+:   **Source Talk Community**: "Transitioning to
+Kotlin" (https://www.source-technology.com/source-talks-transitioning-to-kotlin/)
 
-* Technical article: *"Building a bank? Here’s why you should use
-  Kotlin"* (https://content.11fs.com/article/building-a-bank-heres-why-you-should-use-kotlin)
+Publications
+:   **Article**: "Building a bank? Here’s why you should use
+Kotlin"* (https://content.11fs.com/article/building-a-bank-heres-why-you-should-use-kotlin)
+:   **Technical Blog**   (https://jasition.github.io/)
 
-* Open Source contributions: quickfixj (https://github.com/quickfix-j/quickfixj/pull/212)
+Community
+:   **Open Source contributions**: quickfixj: https://github.com/quickfix-j/quickfixj/pull/212
 
-* Technical Blog: https://jasition.github.io/
 
 Skills
---------------------
+----------------------------------------
 
-|                   |                                                                                                                                                                                                                                                                            |
-|-------------------|----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
-| Languages         | Kotlin, Core Java (17+), Bash, SQL, PL/SQL                                                                                                                                                                                                                                 |
-| Frameworks        | Spring Boot, Spring Frameworks, Micronaut, Exposed, Jooq, JDBI, Kotest, Mockk, Arrow, Disruptor, Flyway, Resilience4J, Mockito, AssertionJ, Jupiter, Protobuf, REST, GraphQL                                                                                               |
-| Messaging         | Confinity (formerly IBM) Low-latency Messaging, Reuters Foundation API (RFA), Quickfix, Kafka, Amazon Kinesis                                                                                                                                                              |
-| Databases         | Oracle, mySQL, Postgres, InfluxDB, Metabase                                                                                                                                                                                                                                |
-| Methodologies     | A/B Testing, Functional Programming, SOLID Principles, Event Sourcing, Command Query Responsibility Segregation (CQRS), Ports and Adapters (Hexagonal Architecture), Test-driven Development (TDD), Behaviour-driven Development (BDD), Scrum, Kanban, Continuous Delivery |
-| Tools             | Gradle, Docker, Kubectl, Github, Gitlab, BitBucket, Jira, Confluence, DataDog, Kibana                                                                                                                                                                                      |
-| CI/CD             | Github actions, Gitlab CI, Jenkins, Kubernetes, Bamboo                                                                                                                                                                                                                     |
-| Operating Systems | Linux, Windows, Mac OSX                                                                                                                                                                                                                                                    |
+Languages
+:   Kotlin | Core Java (17+) | Bash | SQL | PL/SQL
+
+Frameworks
+:   Spring Boot | Spring Frameworks | Micronaut | Exposed | Jooq | JDBI | Kotest | Mockk | Arrow | Disruptor | Flyway | Resilience4J | Mockito | AssertionJ | Jupiter | Protobuf | REST | GraphQL
+
+Messaging
+:   Confinity (formerly IBM) Low-latency Messaging | Reuters Foundation API (RFA) | Quickfix | Kafka | Amazon Kinesis
+
+Databases
+:   Oracle | mySQL | Postgres | InfluxDB | Metabase
+
+Methodologies
+:   A/B Testing | Functional Programming | SOLID Principles | Event Sourcing | Command Query Responsibility Segregation (CQRS) | Ports and Adapters (Hexagonal Architecture) | Test-driven Development (TDD) | Behaviour-driven Development (BDD) | Scrum | Kanban | Continuous Delivery
+
+Tools
+:   Gradle | Docker | Kubectl | Github | Gitlab | BitBucket | Jira | Confluence | DataDog | Kibana
+
+CI/CD
+:   Github actions | Gitlab CI | Jenkins | Kubernetes | Bamboo
+
+OS
+:   Linux | Windows | Mac OSX
+
 
 Working Experiences
-----------
+----------------------------------------
 
-**Lead Kotlin Engineer, 11:FS Group, May 2021 - Present:**
+**Lead Kotlin Engineer, 11:FS Group, May 2021 - Present**
+
 Worked in the Consulting & Research department as an engineer consultant working for contracted clients.
 *Bitcoin Payroll System and Integration* (https://nydig.com/). An Bitcoin-oriented company that integrates Bitcoin with
 various financial services. The payroll project aims at automating employees' salary payment with Bitcoin purchase,
@@ -56,7 +74,8 @@ were primarily REST APIs, AMQP events, and batch files. Also worked on the backe
 UI and connects with the API as a product. The microservices were running in AWS using EKS. Infrastructure was
 configured using Terraform. Kotlin was the primary language and sometimes Python.
 
-**Tech Lead, N26 GmbH Barceonla Sucursal E, Barcelona, Mar 2019 - May 2021:**
+**Tech Lead, N26 GmbH Barceonla Sucursal E, Barcelona, Mar 2019 - May 2021**
+
 *Product Service* (http://www.n26.com). An online branch-less modern retail bank that operates entirely in AWS Cloud
 using Docker and Kubernetes/Nomad. Product Service was created in managing the lifecycle of a premium membership
 subscription and promoting customers the values of premium memberships. It was a monolithic service that was being
@@ -66,7 +85,7 @@ domain-driven design principles in re-defining the bounded-context of microservi
 responsible microservice went through CQRS analysis and event storming. Used Kotlin as primary language and Java 11 as
 secondary.
 
-**Technical Lead, IG Group, London, Jun 2015 - Mar 2019:**
+**Technical Lead, IG Group, London, Jun 2015 - Mar 2019**
 
 *Spectrum Markets* (https://www.spectrum-markets.com). A new institutional Exchange system as a Greenfield project.
 Combined Event-Sourcing, CQRS, SOLID Principles, Functional Programming, Full TDD / BDD at all levels in Testing
@@ -132,10 +151,11 @@ content management system based on Weblogic and Oracle. Led a team of 3 develope
 object cache and reduced application response time by 30%.
 
 **Software Specialist, Intelligence Plus Limited, Hong Kong, Jul 2001 - Oct 2002**
+
 *Learning Plus*. A Core Java e-learning system using mySQL, JDBC, Swing, Java2D, multi-threading, and UML.
 
 Education
----------
+----------------------------------------
 
 2006
 :   **Master of Sceience in Computer Science**; The Chinese University of Hong Kong; Average GPA 3.3.
@@ -146,15 +166,19 @@ Education
 Extras
 ----------------------------------------
 
-* *Nationality*: British Citizen
+Nationality
+:   British Citizen
 
-* *Human Languages*: English (native), Cantonese (native), Mandarin (fluent), Spanish (elementary)
+Languages
+:   English (native) | Cantonese (native) | Mandarin (fluent) | Spanish (elementary)
 
-* *Availability*: 2 months
+Availability
+:   2 months
 
-* *Hobbies*: Yoga, Tango
+Hobbies
+:   Yoga | Tango
 
-----
+----------------------------------------
 
 > Email: jasition@gmail.com • LinkedIn: https://www.linkedin.com/in/jason-chow-b7418624/.
 > This CV was generated from Markdown format by Pandoc (https://github.com/mszep/pandoc_resume) 
