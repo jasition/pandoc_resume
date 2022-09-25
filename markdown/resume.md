@@ -41,7 +41,7 @@ Frameworks
 Resilience4J | Mockito | AssertionJ | Jupiter | Protobuf | REST | GraphQL
 
 Messaging
-:   Confinity (formerly IBM) Low-latency Messaging | Reuters Foundation API (RFA) | Quickfix | Kafka | Amazon Kinesis
+:   Rabbit MQ | Kafka | Confinity (formerly IBM) Low-latency Messaging | Reuters Foundation API (RFA) | Quickfix | Amazon Kinesis
 
 Databases
 :   Oracle | mySQL | Postgres | InfluxDB | Metabase
@@ -49,13 +49,16 @@ Databases
 Methodologies
 :   A/B Testing | Functional Programming | SOLID Principles | Event Sourcing | Command Query Responsibility
 Segregation (CQRS) | Ports and Adapters (Hexagonal Architecture) | Test-driven Development (TDD) | Behaviour-driven
-Development (BDD) | Scrum | Kanban | Continuous Delivery
+Development (BDD) | Scrum | Kanban | Continuous Delivery | Trunk-based development
 
 Tools
-:   Gradle | Docker | Kubectl | Github | Gitlab | BitBucket | Jira | Confluence | DataDog | Kibana
+:   Gradle | Docker | Kubectl | Jira | Confluence | DataDog | Kibana
+
+Source Control:
+:   Github | Gitlab | Bitbucket | Perforce
 
 CI/CD
-:   Github actions | Gitlab CI | Jenkins | Kubernetes | Bamboo
+:   Github actions | Gitlab CI | ArgoCD | Jenkins | Kubernetes | Kustomize | Bamboo
 
 OS
 :   Linux | Windows | Mac OSX
