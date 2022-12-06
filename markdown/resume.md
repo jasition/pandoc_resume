@@ -3,7 +3,7 @@ Tsz Shun Chow (Jason)
 
 ----
 
-> Kotlin / Java engineer and technical leader with 21 years hands-on experience in full development cycle.
+> Kotlin / Java engineer and technical leader with more than 20 years hands-on experience in full development cycle.
 > Passionate about achieving business outcomes with the appropriate use of technology.
 
 ----
@@ -12,9 +12,9 @@ Tsz Shun Chow (Jason)
 
 Low-latency trading systems | Core banking systems and integration | Product-oriented engineering | A/B testing
 experiment
-design | Public API designer and writer | Event-driven systems | Multi-threaded real-time systems | CQRS | event
+design | Public API designer and writer | Event-driven systems | Multi-threaded real-time systems | CQRS | Event
 sourcing |
-domain-driven development
+Domain-driven development
 
 ## Technical Experiences
 
@@ -30,7 +30,6 @@ Kotlin"* (https://content.11fs.com/article/building-a-bank-heres-why-you-should-
 Community
 :   **Open Source contributions**: *quickfixj*: https://github.com/quickfix-j/quickfixj/pull/212
 
-
 ## Skills
 
 Languages
@@ -41,45 +40,52 @@ Frameworks
 Resilience4J | Mockito | AssertionJ | Jupiter | Protobuf | REST | GraphQL
 
 Messaging
-:   Rabbit MQ | Kafka | Confinity (formerly IBM) Low-latency Messaging | Reuters Foundation API (RFA) | Quickfix | Amazon Kinesis
+:   Rabbit MQ | Kafka | Confinity Low-latency Messaging | Reuters Foundation API (RFA) | Quickfix | Amazon Kinesis
 
 Databases
 :   Oracle | mySQL | Postgres | InfluxDB | Metabase
 
-Methodologies
+Methods
 :   A/B Testing | Functional Programming | SOLID Principles | Event Sourcing | Command Query Responsibility
-Segregation (CQRS) | Ports and Adapters (Hexagonal Architecture) | Test-driven Development (TDD) | Behaviour-driven
+Segregation (CQRS) | Ports and Adapters | Test-driven Development (TDD) | Behaviour-driven
 Development (BDD) | Scrum | Kanban | Continuous Delivery | Trunk-based development
 
 Tools
 :   Gradle | Docker | Kubectl | Jira | Confluence | DataDog | Kibana
 
-Source Control:
+Source Repo
 :   Github | Gitlab | Bitbucket | Perforce
 
-CI/CD
+CI / CD
 :   Github actions | Gitlab CI | ArgoCD | Jenkins | Kubernetes | Kustomize | Bamboo
+
+Infra
+:   Terraform | CDKTF
 
 OS
 :   Linux | Windows | Mac OSX
-
 
 ## Working Experiences
 
 ### Lead Kotlin Engineer, 11:FS Group, May 2021 - Present
 
-Worked in the Consulting & Research department as an engineer consultant working for contracted clients.
+Worked in the Venture department as an engineer consultant working for contracted clients.
 
-**Bitcoin Payroll System and Integration** (https://nydig.com/). An Bitcoin-oriented company that integrates Bitcoin
+**Bitcoin Payroll System and Integration** (https://nydig.com/). A Bitcoin-oriented company that integrates Bitcoin
 with various financial services. The payroll project aims at automating employees' salary payment with Bitcoin purchase,
 meanwhile facilitating existing Bitcoin trading services. Worked on the proof-of-concept of the core banking integration
 with MVB Financial Corp (https://mvbbanking.com/) via Helix API (https://docs.helix.q2.com/docs). Built the basic
 mechanics of transaction ingestion, bulk transfer request, and system integration layer. The communication transports
-were primarily REST APIs, AMQP events, and batch files. Also worked on the backend-for-frontend service that served the
-UI and connects with the API as a product. The microservices were running in AWS using EKS. Infrastructure was
-configured using Terraform. Kotlin was the primary language and sometimes Python.
+were primarily REST APIs, AMQP events, and batch files. Used Micronaut as the primary frameworks.
 
-### Tech Lead, N26 GmbH Barceonla Sucursal E, Barcelona, Mar 2019 - May 2021
+Also worked on the backend-for-frontend service that primarily served the onboarding, wallet, buy/sell and account
+flows. The microservices were running in AWS using EKS. Infrastructure was configured using Terraform. Kotlin was the
+primary language and sometimes Python.
+
+Also worked on the tax reporting integration via Taxbit (https://taxbit.com/). Configured and implemented retrying and
+dead lettering mechanism using RabbitMQ. Used CDKTF in templating Terraform configurations.
+
+### Tech Lead, N26, Barcelona, Mar 2019 - May 2021
 
 **Product Service** (http://www.n26.com). An online branch-less modern retail bank that operates entirely in AWS Cloud
 using Docker and Kubernetes/Nomad. Product Service was created in managing the lifecycle of a premium membership
@@ -137,18 +143,18 @@ throughput from 20 orders per second to 1000.
 **Domestic Tenancy Management System**. Led a team of 4 engineers to analyse, design and develop a n-tier J2EE housing
 management system using Websphere and DB2, with agile methodologies and Paired Programming. Gathered user requirements.
 
-### Technical Analyst, Orient Overseas Container Line Limited, Hong Kong, Jul 2005 - Sep 2006
+### Technical Analyst, OOCL Limited, Hong Kong, Jul 2005 - Sep 2006
 
 **Real-time Event Engine**. A Real-time multi-threaded messaging system based on JMS. Developed a proprietary
 multiple-read-single-write object cache to boost performance by 50%.
 
-### Systems Analyst / Team Lead, Peopleware Systems Limited, Hong Kong, May 2004 - Jul 2005
+### Systems Analyst, Peopleware Systems Limited, Hong Kong, May 2004 - Jul 2005
 
 **Clearing House System of the Trans Link Systems**. The national public transport backoffice system in The Netherlands.
 Led the team of 2 engineers on this n-tier J2EE system used Weblogic and Oracle. Enhanced the multi-threaded framework
 to complete clearing and settlement for 16 million transactions within 2 hours.
 
-### Software Engineer / Team Lead, Agile Software, Hong Kong, Oct 2002 - May 2004
+### Software Engineer, Agile Software, Hong Kong, Oct 2002 - May 2004
 
 **Product Lifecycle Management system** (https://www.oracle.com/uk/scm/product-lifecycle-management/). Led a team of 3
 engineers working on a n-tier J2EE content management system based on Weblogic and Oracle. . Enhanced the proprietary
