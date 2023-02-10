@@ -3,8 +3,8 @@ Tsz Shun Chow (Jason)
 
 ----
 
-> Kotlin / Java engineer and technical leader with more than 20 years hands-on experience in full development cycle.
-> Passionate about achieving business outcomes with the appropriate use of technology.
+> Highly motivated, passionate and detail-oriented Kotlin / Java engineer with more than 20 years hands-on experience in developing innovative solutions for challenging projects.
+> Possess a strong technical background in low-latency financial systems.
 
 ----
 
@@ -36,38 +36,39 @@ Languages
 :   Kotlin | Core Java (17+) | Bash | SQL | PL/SQL
 
 Frameworks
-:   Spring Boot | Spring Frameworks | Micronaut | Exposed | Jooq | JDBI | Kotest | Mockk | Arrow | Disruptor | Flyway |
-Resilience4J | Mockito | AssertionJ | Jupiter | Protobuf | REST | GraphQL
+:   Spring Boot | Micronaut | Arrow | Disruptor | Flyway | Exposed | Jooq | JDBI |
+Resilience4J | Protobuf | REST | GraphQL | Jupiter | Kotest | Mockk | Testcontainers
 
 Messaging
 :   Rabbit MQ | Kafka | Confinity Low-latency Messaging | Reuters Foundation API (RFA) | Quickfix | Amazon Kinesis
 
 Databases
-:   Oracle | mySQL | Postgres | InfluxDB | Metabase
+:   Oracle | mySQL | Postgres | Invision | InfluxDB | Metabase
 
 Methods
-:   A/B Testing | Functional Programming | SOLID Principles | Event Sourcing | Command Query Responsibility
-Segregation (CQRS) | Ports and Adapters | Test-driven Development (TDD) | Behaviour-driven
-Development (BDD) | Scrum | Kanban | Continuous Delivery | Trunk-based development
-
-Tools
-:   Gradle | Docker | Kubectl | Jira | Confluence | DataDog | Kibana
+:   A/B Testing | Functional Programming | SOLID Principles | Event Sourcing | CQRS | Ports and Adapters | TDD | BDD | Scrum | Kanban | Continuous Delivery | Trunk-based development
 
 Source Repo
 :   Github | Gitlab | Bitbucket | Perforce
 
-CI / CD
-:   Github actions | Gitlab CI | ArgoCD | Jenkins | Kubernetes | Kustomize | Bamboo
+Build / CI / CD
+:   Gradle | Maven | Docker | Kubectl | Github actions | Gitlab CI | ArgoCD | Kubernetes | Kustomize | Jenkins | Bamboo
 
 Infra
 :   Terraform | CDKTF
 
-OS
-:   Linux | Windows | Mac OSX
+Monitors
+:   DataDog | Kibana | PagerDuty | Opsgenie
+
+Platforms
+:   AWS | Azure | GCP | Mac OSX | Linux | Windows
+
+Tools
+:   Jira | Confluence | Figma | Miro | Notions | Lucidcharts
 
 ## Working Experiences
 
-### Lead Kotlin Engineer, 11:FS Group, May 2021 - Present
+### Principal Engineer, 11:FS Group, May 2021 - Present
 
 Worked in the Venture department as an engineer consultant working for contracted clients.
 
@@ -191,4 +192,4 @@ Contacts
 
 ----------------------------------------
 
-> This CV was generated from Markdown format by Pandoc (https://github.com/mszep/pandoc_resume) 
+> Generated from Markdown format by Pandoc@Github 
