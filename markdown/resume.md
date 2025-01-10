@@ -3,8 +3,9 @@ Tsz Shun Chow (Jason)
 
 ----
 
-> Highly motivated, passionate and detail-oriented Kotlin / Java engineer with more than 20 years hands-on experience in developing innovative solutions for challenging projects.
-> Possess a strong technical background in low-latency financial systems.
+> Author of the book titled "Software Architecture with Kotlin".
+> More than 20 years hands-on experience in software development.
+> Strong technical background in low-latency financial systems.
 
 ----
 
@@ -23,9 +24,10 @@ Webinar
 Kotlin"* (https://www.source-technology.com/source-talks-transitioning-to-kotlin/)
 
 Publications
+:   **Book**: *"Software Architecture with Kotlin: Combine various architectural styles to create sustainable and scalable software solutions"* (https://amzn.eu/d/dqBxdkW)
 :   **Article**: *"Building a bank? Here’s why you should use
 Kotlin"* (https://content.11fs.com/article/building-a-bank-heres-why-you-should-use-kotlin)
-:   **Technical Blog**:   *Strictly Programming* (h/ttps://jasition.github.io/)
+:   **Technical Blog**:   *Strictly Programming* (https://jasition.github.io/)
 
 Community
 :   **Open Source contributions**: *quickfixj*: https://github.com/quickfix-j/quickfixj/pull/212
@@ -33,32 +35,32 @@ Community
 ## Skills
 
 Languages
-:   Kotlin | Core Java (17+) | Bash | SQL | PL/SQL
+:   Kotlin | Core Java (21+) | Bash | SQL
 
 Frameworks
-:   Spring Boot | Micronaut | Arrow | Disruptor | Flyway | Exposed | Jooq | JDBI |
-Resilience4J | Protobuf | REST | GraphQL | Jupiter | Kotest | Mockk | Testcontainers
+:   Spring Boot | Http4K | Ktor | Micronaut | Arrow | Disruptor | Flyway | Exposed | Jooq | JDBI |
+Protobuf | REST | GraphQL | Kotest | Mockk | Testcontainers
 
 Messaging
-:   Rabbit MQ | Kafka | Confinity Low-latency Messaging | Reuters Foundation API (RFA) | Quickfix | Amazon Kinesis
+:   Kafka | Rabbit MQ | Quickfix
 
 Databases
-:   Oracle | mySQL | Postgres | Invision | InfluxDB | Metabase
+:   mySQL | Postgres | Oracle
 
 Methods
 :   A/B Testing | Functional Programming | SOLID Principles | Event Sourcing | CQRS | Ports and Adapters | TDD | BDD | Scrum | Kanban | Continuous Delivery | Trunk-based development
 
 Source Repo
-:   Github | Gitlab | Bitbucket | Perforce
+:   Github | Gitlab
 
 Build / CI / CD
-:   Gradle | Maven | Docker | Kubectl | Github actions | Gitlab CI | ArgoCD | Kubernetes | Kustomize | Jenkins | Bamboo
+:   Gradle | Kubernetes | Docker | Kubectl | Github actions | Gitlab CI | ArgoCD | Kustomize
 
-Infra
+Infrastructure
 :   Terraform | CDKTF
 
 Monitors
-:   DataDog | Kibana | PagerDuty | Opsgenie
+:   DataDog | Kibana
 
 Platforms
 :   AWS | Azure | GCP | Mac OSX | Linux | Windows
@@ -68,7 +70,17 @@ Tools
 
 ## Working Experiences
 
-### Principal Engineer, 11:FS Group, May 2021 - Present
+### Senior Vice President, CAIS, London, March 2023 - Present
+
+**CAIS Alternative Investment Platform** (https://www.caisgroup.com/). A wealth management platform provider for
+financial advisors, fund managers, fund administrators, and broker-dealers on alternative investments and marketplace. 
+Transformed the pre-trade experience from a legacy monolithic application to micorservice architecture under AWS 
+platform. Led an engineering team of 3 frontend, 3 backend, and one testing engineers. Heavily involved in product 
+ideation, requirement gathering, and project planning with designers, product managers, and project managers. Led 
+technical analysis in pre-trade and general engineering topics. Used Kotlin as the primary language, Spring Boots as 
+the fundamental frameworks. Applied DDD in the strategic and tactical designs in the pre-trade space. 
+
+### Principal Engineer, 11:FS Group, London, May 2021 - March 2023
 
 Worked in the Venture department as an engineer consultant working for contracted clients.
 
