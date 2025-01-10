@@ -19,10 +19,11 @@ body {
 
 /* Title of the resume */
 h1 {
-    font-size: 55px;
+    font-size: 24px;
     color: #0066cc;
     text-align:center;
     margin-bottom:15px;
+    text-transform: uppercase;
 }
 /* h1:hover { */
 /*     background-color: #757575; */
@@ -33,6 +34,7 @@ h1 {
 /* Titles of categories */
 h2 {
     /* This is called "sectioncolor" in the ConTeXt stylesheet. */
+    font-size: 16px;
     color: #0066cc;
     text-transform: uppercase;
     text-decoration: underline;
@@ -44,21 +46,25 @@ h2 {
 /* } */
 
 h3 {
+    font-size: 14px;
     font-style: italic;
 }
 
 /* Definitions */
 dt {
+    font-size: 12px;
     float: left;
     clear: left;
     width: 17%;
     font-weight: bold;
 }
 dd {
+    font-size: 12px;
     margin-left: 17%;
     margin-bottom:7px;
 }
 p {
+    font-size: 12px;
     margin-top:0;
     margin-bottom:7px;
 }

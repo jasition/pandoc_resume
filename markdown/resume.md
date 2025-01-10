@@ -129,7 +129,7 @@ client orders and hedging function. Connected with 14 liquidity providers (e.g. 
 setting up and onboarding of the new price FIX feeds and new trade FIX feeds. Performed conformity testing and conducted
 live test trades with the dealers.
 
-### AVP, Bank of America Merrill Lynch, London, Oct 2013 - Jun 2015
+### Assistant Vice President, Bank of America Merrill Lynch, London, Oct 2013 - Jun 2015
 
 Front office support and development for Interests Rate Swaps trading application. Enhanced EURIBOR and LIBOR Interests
 Rate Swaps real-time trading GUI between the bank and other systems such as iSwap, Bloomberg, Tradeweb, etc. Worked as a
@@ -202,6 +202,5 @@ Hobbies
 Contacts
 :   jasition@gmail.com | https://www.linkedin.com/in/jason-chow-b7418624/
 
-----------------------------------------
-
-> Generated from Markdown format by Pandoc@Github 
+Github
+:   https://github.com/jasition
